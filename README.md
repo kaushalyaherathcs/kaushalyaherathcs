@@ -5,7 +5,7 @@
 <br/>
 <table>
 <tr>
-<td width="100%">
+<td width="60%">
   
 ## Ø About Me
 
@@ -15,7 +15,7 @@ digital experiences. Focused on modern architectures, creative game development,
 and building intuitive UI systems with clean visual hierarchy.</h4>
 
 </td>
-<td width="40%">
+<td width="20%">
 <img src="./pfp.gif" width="100%" />
 </td>
 </tr>
