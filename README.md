@@ -1,23 +1,25 @@
 <img src="./banner.gif" width="100%" />
 
-<h3 align="center">Ayubowan 🙏 — I'm Ghost</h3>
-
-<h1 align="center">  hey there!</h1>
-
-<h3 align="center"></h3>
+<h1 align="left">HEY THERE, I'M ACHINTHA</h1>
 
 <br/>
+<table>
+<tr>
+<td width="100%">
+  
+## Ø About Me
 
-## 🦴 About Me
+<h4>Software Engineering student passionate about crafting sleek,<br>
+high-performance web applications, mobile apps, and interactive<br>
+digital experiences. Focused on modern architectures, creative game development,<br>
+and building intuitive UI systems with clean visual hierarchy.</h4>
 
-- 🎓 Engineering student at the Open University of Sri Lanka (OUSL)
-- 💻 Building toward freelance work in web development and stream overlay design
-- 🕹️ Growing a freelance overlay business — **ghozt** — targeting Soulslike aesthetics (Sekiro, Elden Ring), built as full HTML/CSS/JS codebases for OBS Browser Source
-- 🎨 Pipeline: Figma → After Effects → WebM/PNG for overlay assets
-- 🖤 Working on a personal portfolio site with a cyberpunk/HUD aesthetic, GSAP ScrollTrigger animations, and a scroll-scrubbed keyboard hero section
-- ⚔️ Hobby project: a 2D Soulslike game inspired by Sri Lankan mythology and Sekiro-style combat
-
-<br/>
+</td>
+<td width="40%">
+<img src="./pfp.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ### 🔗 Follow Me On
 
