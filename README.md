@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070c0b,100:0d1613&height=200&section=header&text=GHOZT&fontColor=8ffcd0&fontSize=60&animation=fadeIn&fontAlignY=40" />
+<img src="./banner.gif" width="100%" />
 
 <h3 align="center">Ayubowan 🙏 — I'm Ghost</h3>
 
