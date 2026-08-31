@@ -1,12 +1,10 @@
-<h1 align="center">GHOZT here 👻🔥!</h1>
+<h1 align="center">  hey there!</h1>
 
-<h3 align="center">Ayubowan 🙏 — I'm Ghost</h3>
+<h3 align="center"></h3>
 
 <br/>
 
 ## 🦴 About Me
-
-<img src="https://komarev.com/ghpvc/?username=kaushalyaherathcs&color=brightgreen" alt="Profile Views"/>
 
 - 🎓 Engineering student at the Open University of Sri Lanka (OUSL)
 - 💻 Building toward freelance work in web development and stream overlay design
