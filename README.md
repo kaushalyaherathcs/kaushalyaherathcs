@@ -35,5 +35,5 @@ and building intuitive UI systems with clean visual hierarchy.</h4>
 ## Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,c,vue,git,github,pycharm,vscode,figma,godot,unity" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,c,vue,docker,git,github,pycharm,vscode,figma,godot,unity" />
 </p>
