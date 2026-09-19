@@ -1,4 +1,4 @@
-<img src="./pfp2.gif" width="100%" />
+<img src="./banner2.gif" width="100%" />
 
 <h1 align="left">HEY THERE, I'M ACHINTHA</h1>
 
