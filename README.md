@@ -7,7 +7,7 @@
 <tr>
 <td width="60%">
   
-## Ø About Me
+## Ø About Me.
 
 <h4>Software Engineering student passionate about crafting sleek,<br>
 high-performance web applications, mobile apps, and interactive<br>
