@@ -21,7 +21,7 @@ and building intuitive UI systems with clean visual hierarchy.</h4>
 </tr>
 </table>
 
-### 🔗 Follow Me On 
+### 🔗 Follow Me On.
 
 <!-- Replace these with your real links -->
 <p>
