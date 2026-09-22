@@ -7,7 +7,7 @@
 <tr>
 <td width="60%">
   
-## Ø About Me.
+## Ø About Me
 
 <h4>Software Engineering student passionate about crafting sleek,<br>
 high-performance web applications, mobile apps, and interactive<br>
@@ -21,7 +21,7 @@ and building intuitive UI systems with clean visual hierarchy.</h4>
 </tr>
 </table>
 
-### 🔗 Follow Me On
+### 🔗 Follow Me On 
 
 <!-- Replace these with your real links -->
 <p>
