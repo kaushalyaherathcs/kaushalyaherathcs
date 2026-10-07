@@ -1,4 +1,4 @@
-<img src="./bannery.gif" width="100%" />
+<img src="./bannerz.gif" width="100%" />
 
 <h1 align="left">HEY THERE, I'M ACHINTHA</h1>
 
